@@ -1,7 +1,7 @@
 # Malaira-Cell-Detection
 Detection of  Parasitized and Uninfected Cells for detecting Malaria.
 
-1. Obtained the data from Kaggle.
+This Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
 2. Preprocessed and applied Augmentation
 
